@@ -22,7 +22,7 @@ function App() {
 		>
 			<Header>
 				<Menu />
-				<h1>Header</h1>
+				<h1>Sandile Mathenjwa</h1>
 			</Header>
 			<Container>
 				<h2>Super Cool</h2>
